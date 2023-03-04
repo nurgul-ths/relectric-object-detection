@@ -12,7 +12,7 @@ To view the app at its current state:
 
 git clone https://github.com/nurgul-ths/relectric-object-detection.git
 
-6. Install the python dependencies 
+2. Install the python dependencies 
 
 pip install opencv
 
