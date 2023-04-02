@@ -16,6 +16,10 @@ git clone https://github.com/nurgul-ths/relectric-object-detection.git
 
 pip install opencv
 
+3. Install the models from the following link
+
+https://drive.google.com/file/d/1xDowL5hsKiLxf_q8kCm9rPyoqOIiH_t_/view?usp=share_link 
+
 
 ## LIST OF CONTRIBUTORS
 
